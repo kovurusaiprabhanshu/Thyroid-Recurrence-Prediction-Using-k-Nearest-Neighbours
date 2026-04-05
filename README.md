@@ -68,7 +68,7 @@ Using concepts of **k-Nearest-Neighbors** to predict Thyroid Cancer Recurrence. 
 | Component| Feature | Description| 
 | ------------- | ------ | ------|
 | Dataset  | `Thyroid_Diff.csv` | Contains all data. Downloaded from Kaggle.com
-| Environment| `Thyroid_Reccurence.ipynb` | Jupyter Lab Notebook with workflow
+| Environment| `Thyroid_Reccurence_Prediction.ipynb` | Jupyter Lab Notebook with workflow
 | Documentation   | `Readme.md`| Overview of the project and additional information
 
 ## Libraries and Technologies Used
