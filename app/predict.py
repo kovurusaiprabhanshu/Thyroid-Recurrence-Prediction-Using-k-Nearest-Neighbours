@@ -2,16 +2,16 @@ import joblib
 import pandas as pd
 
 # Load models
-kmeans_model = joblib.load("kmeans_model.pkl")
-rf_model = joblib.load("rf_model.pkl")
+kmeans_model = joblib.load("models/kmeans_model.pkl")
+rf_model = joblib.load("models/rf_model.pkl")
 
 # Load scalers
-scaler_kmeans = joblib.load("scaler_kmeans.pkl")
-scaler_rf = joblib.load("scaler_rf.pkl")
+scaler_kmeans = joblib.load("models/scaler_kmeans.pkl")
+scaler_rf = joblib.load("models/scaler_rf.pkl")
 
 # Load columns
-kmeans_columns = joblib.load("columns_kmeans.pkl")
-rf_columns = joblib.load("columns_rf.pkl")
+kmeans_columns = joblib.load("models/columns_kmeans.pkl")
+rf_columns = joblib.load("models/columns_rf.pkl")
 
 def predict(input_data: pd.DataFrame):
 
