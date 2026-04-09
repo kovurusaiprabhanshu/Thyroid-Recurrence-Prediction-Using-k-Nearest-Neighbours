@@ -1,9 +1,3 @@
-It seems there was a misunderstanding—I provided the content *as* Markdown text for you to copy, rather than an actual downloadable file.
-
-To create the file yourself, copy the text in the box below, create a new file in your repository named `README.md`, and paste this content into it.
-
------
-
 # Thyroid Cancer Risk Assessment and Recurrence Prediction
 
 This project is a clinical decision-support tool designed to predict the likelihood of thyroid cancer recurrence. It uses a hybrid machine learning approach, combining unsupervised clustering with supervised classification to provide multi-layered patient risk assessments.
