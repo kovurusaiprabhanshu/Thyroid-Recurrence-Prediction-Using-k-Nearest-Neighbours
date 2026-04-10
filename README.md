@@ -61,6 +61,10 @@ In medical diagnostics, raw accuracy is insufficient. This project prioritizes a
   * **Clinical Forecasting Template**: Providing a standardized framework for oncological analytics.
   * **Medical Infrastructure Evaluation**: Generating insights into state-level medical outcomes and treatment effectiveness.
 
-## 8\. Author
+## 8\. App Deployment 
+* Streamlit Could Services has been used to deploy the app.
+* Link to the app: https://thyrocare.streamlit.app/
+
+## 9\. Author
 
 **Kovuru Sai Prabhanshu** [GitHub Profile](https://www.google.com/search?q=https://github.com/kovurusaiprabhanshu)
